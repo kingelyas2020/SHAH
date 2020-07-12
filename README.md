@@ -32,13 +32,13 @@ $ ls
 <br/>
 $ cd bhot
 <br/>
-$ python2 bhot.py
+$ python2 SHAH.py
 <br/>
 ...
 <br/>
-• TOOL USER : (knock me on facebook)
+• TOOL USER : (shah)
 <br/>
-• TOOL PASS : (knock me on facebook)
+• TOOL PASS : (elyas)
 <br/>
 ....
 <br/>
@@ -56,19 +56,19 @@ https://www.mastertrick.design
 ## 馃懃 ***Join***
 
 ### Facebook group: 
-https://www.facebook.com/groups/231747098048450
+https://www.facebook.com/groups/2317470980484
 
 ### Telegram channel:
-https://t.me/mastertrick2
+https://t.me/AFGHACKER2020
 
 ### Facebook page:
-https://www.facebook.com/TeamVVirus
+https://www.facebook.com/TeamAFGHACKER
 
 ### Instagram: 
 https://www.instagram.com/MehtanOfficial
 
 ### My GitHub ID link:
-https://www.github.com/BotolMehedi
+https://www.github.com/shahelyad
 
 ### 馃摙 Warning
 
