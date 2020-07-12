@@ -22,7 +22,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bhot
+$ git clone https://github.com/kingelyas2020/SHAH.git
 <br/>
 $ pip2 install requests
 <br/>
