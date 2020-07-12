@@ -45,7 +45,7 @@ $ python2 SHAH.py
 
 * Note:- Don't try to edit or modify this tool.
 
-## 馃敆 ***Check this***
+## 馃敆 ***Check thisj***
 
 ### Subscribe our channel on youtube:
 https://www.youtube.com/MasterTrick1
